@@ -1,0 +1,16 @@
+.git
+target
+tmp
+**/target
+doc
+Dockerfile
+.dockerignore
+.gitignore
+docker-compose.yml
+Jenkins*
+housekeeping
+*.md
+*.sh
+LICENSE
+rustfmt.toml
+db*
